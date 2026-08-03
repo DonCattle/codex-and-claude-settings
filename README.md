@@ -1,0 +1,1 @@
+# codex-and-claude-settings
